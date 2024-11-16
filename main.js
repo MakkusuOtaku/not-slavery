@@ -13,8 +13,8 @@ let snackTime = false;
 
 const bot = mineflayer.createBot({
 	username: "FarmMachine",
-	host: "localhost",
-	port: 12345,
+	host: "ger01.skullnodes.xyz",
+	port: 2841,
 	//viewDistance: "tiny",
 });
 
